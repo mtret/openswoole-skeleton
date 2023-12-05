@@ -1,9 +1,13 @@
 ### Open Swoole skeleton
 
-Run the following command to start the server
+Run the following commands to start the server:
 
 ```bash
 make up
+```
+
+```bash
+make composer install
 ```
 
 ### Open Swoole Metrics
